@@ -43,5 +43,5 @@ jobs:
           platform: linux/amd64,linux/arm64,linux/ppc64le
           file: ./dockerfile.v1
           push: true
-          tags: pseudoukasz/zad2:tag1
+          tags: pseudoukasz/zad2:tag2
           
