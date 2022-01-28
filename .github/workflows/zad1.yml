@@ -44,5 +44,5 @@ jobs:
           context: ./
           file: ./dockerfile.v1
           push: true
-          tags: proj/zad2:tag1
+          tags: pseudoukasz/zad2:tag1
           
